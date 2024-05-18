@@ -1,3 +1,22 @@
+testing
+
+A new version of `create-next-app` is available!
+You can update by running: npm i -g create-next-app
+
+❯ npm i -g create-next-app
+npm error code EEXIST
+npm error path /usr/local/bin/create-next-app
+npm error EEXIST: file already exists
+npm error File exists: /usr/local/bin/create-next-app
+npm error Remove the existing file and try again, or run npm
+npm error with --force to overwrite files recklessly.
+
+npm error A complete log of this run can be found in: /Users/ash/.npm/_logs/2024-05-18T10_45_46_330Z-debug-0.log
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
