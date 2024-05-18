@@ -1,3 +1,5 @@
+testing 2
+
 testing
 
 A new version of `create-next-app` is available!
